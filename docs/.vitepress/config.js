@@ -1,5 +1,5 @@
 export default {
-    base: '/',
+    base: '/garden',
     title: 'brain.overment.com',
     description: 'Everything I know',
     head: [],
