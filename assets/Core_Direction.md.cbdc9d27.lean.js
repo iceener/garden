@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./app.6dddf4ca.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Core/Direction.md"}'),o={name:"Core/Direction.md"};function a(c,n,s,i,p,_){return r(),t("div")}const f=e(o,[["render",a]]);export{m as __pageData,f as default};
